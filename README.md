@@ -1,4 +1,6 @@
-# 🌐 Personal Portfolio Website{https://ranjith-rk-portfolio.netlify.app}
+# 🌐 Personal Portfolio Website
+
+https://ranjith-rk-portfolio.netlify.app
 
 A responsive personal portfolio website designed to showcase my skills, education, internship experience, projects, achievements, and contact information.
 
